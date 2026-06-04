@@ -1,4 +1,3 @@
-
 ## Deskripsi
 
 Game ini merupakan game 2D yang dibuat menggunakan **Unity**. Pemain harus menyelesaikan setiap level dengan melewati berbagai rintangan dan mencapai tujuan akhir.
