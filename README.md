@@ -1,4 +1,3 @@
-<img width="862" height="485" alt="Screenshot 2026-06-04 080804" src="https://github.com/user-attachments/assets/bb7bb078-3bb9-497b-948a-c778f2f2dc8d" />  XIPTOOLS
 
 ## Deskripsi
 
